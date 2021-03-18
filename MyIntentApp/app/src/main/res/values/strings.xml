@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Materi Intent</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="dial_number">Membuka telepon number</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+    <string name="kembali">Kembali</string>
+</resources>
