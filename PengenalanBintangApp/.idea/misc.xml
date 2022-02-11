@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/source_code/2022/android/PengenalanBintangApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/source_code/2022/android/PengenalanBintangApp/app/src/main/res/drawable-v24/icon_about.xml" value="0.2846153846153846" />
+        <entry key="..\:/source_code/2022/android/PengenalanBintangApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/source_code/2022/android/PengenalanBintangApp/app/src/main/res/font-v26/fonts.xml" value="0.1265625" />
+        <entry key="..\:/source_code/2022/android/PengenalanBintangApp/app/src/main/res/font/fonsts.xml" value="0.10416666666666667" />
+        <entry key="..\:/source_code/2022/android/PengenalanBintangApp/app/src/main/res/font/font_p.xml" value="0.10416666666666667" />
+        <entry key="..\:/source_code/2022/android/PengenalanBintangApp/app/src/main/res/font/fonts.xml" value="0.1265625" />
+        <entry key="..\:/source_code/2022/android/PengenalanBintangApp/app/src/main/res/layout/activity_about.xml" value="0.27291666666666664" />
+        <entry key="..\:/source_code/2022/android/PengenalanBintangApp/app/src/main/res/layout/activity_home_card_view.xml" value="0.1" />
+        <entry key="..\:/source_code/2022/android/PengenalanBintangApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/source_code/2022/android/PengenalanBintangApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.25885416666666666" />
+        <entry key="..\:/source_code/2022/android/PengenalanBintangApp/app/src/main/res/layout/detail_bintang.xml" value="0.25" />
+        <entry key="..\:/source_code/2022/android/PengenalanBintangApp/app/src/main/res/layout/detail_planet.xml" value="0.20416666666666666" />
+        <entry key="..\:/source_code/2022/android/PengenalanBintangApp/app/src/main/res/layout/main_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/source_code/2022/android/PengenalanBintangApp/app/src/main/res/menu/menu_main.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

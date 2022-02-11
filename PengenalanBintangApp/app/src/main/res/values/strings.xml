@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Bintang dan Planet</string>
+
+    <!-- about activity-->
+    <string name="about">About</string>
+    <string name="name">Rendi Putra Pradana</string>
+    <string name="email">rendiputrapradana@gmail.com</string>
+    <string name="portofolio">Portofolio :\n</string>
+    <string name="github">Github</string>
+    <string name="linkedIn">LinkedIn</string>
+    <string name="dicoding">Dicoding</string>
+    <string name="user_github">:\t\@rendiputra</string>
+    <string name="user_linkedIn">:\t\@rendi-putra</string>
+    <string name="user_dicoding">:\t\@rendiputra</string>
+
+    <!--  String Tabel  -->
+    <string name="dummy_photos6">6 photos</string>
+    <string name="jenis">Bintang</string>
+    <string name="ciri_fisik">Ciri-ciri fisik</string>
+    <string name="jari_jari">Jari-jari</string>
+    <string name="luas_permukaan">Luas \npermukaan</string>
+    <string name="volume">Volume</string>
+    <string name="massa">Massa</string>
+    <string name="komposisi_atmosfer">Komposisi \natmosfer</string>
+    <string name="komposisi_fostofer">Komposisi \nfostofer</string>
+    <string name="btn_kembali">Kembali</string>
+    <string name="btn_detail">Detail</string>
+
+    <!--  MATAHARI / DEFAULT TEXT / TEST ONLY -->
+    <string name="judul_matahari">Matahari</string>
+    <string name="content_text_matahari">
+        \t\t\tMatahari atau Surya adalah bintang di pusat tata surya. Bentuknya nyaris bulat dan terdiri dari plasma panas bercampur medan magnet. Diameternya sekitar 1.392.684 km, kira-kira 109 kali diameter Bumi, dan massanya (sekitar 2×1030 kilogram, 330.000 kali massa Bumi) mewakili kurang lebih 99,86 % massa total tata surya.\n\n
+        \t\t\tSecara kimiawi, sekitar tiga perempat massa matahari terdiri dari hidrogen, sedangkan sisanya didominasi helium. Sisa massa tersebut (1,69%, setara dengan 5.629 kali massa Bumi) terdiri dari elemen-elemen berat seperti oksigen, karbon, neon, dan besi.
+    </string>
+    <string name="content_jari_matahari">: 695.700 KM</string>
+    <string name="content_luas_permukaan_matahari">: 4,379×10^6 km</string>
+    <string name="content_volume_matahari">: 1.300.000 × Bumi</string>
+    <string name="content_massa_matahari">: 333.000 × Bumi</string>
+    <string name="content_atmosfer_matahari">
+        :\tHidrogen (73,46%)
+        \n\tHelium (24,85)
+        \n\tOksigen (0,77%)
+        \n\tKarbon (0,29%)
+        \n\tBesi (0,16%)
+        \n\tNeon (0,12%)
+        \n\tNitrogen (0,09%)
+        \n\tSilikon (0,07%)
+        \n\tMagnesium (0,05%)
+        \n\tBelerang (0,04%)
+    </string>
+
+</resources>

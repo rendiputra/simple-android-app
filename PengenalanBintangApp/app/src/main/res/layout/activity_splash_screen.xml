@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    tools:context=".SplashScreen">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/splash_image"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/photo_profile"
+        android:layout_centerInParent="true"
+        android:background="@color/blue"/>
+
+</RelativeLayout>
